@@ -82,7 +82,7 @@ background-color: #AC9FBB;
  }
 
  i:hover {
-  background-color: #AC9FBB;
+  color: #AC9FBB;
  }
 
 @media (max-width: 960px) {
