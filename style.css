@@ -85,6 +85,13 @@ background-color: #AC9FBB;
   color: #AC9FBB;
  }
 
+ #giraffe-pic {
+  height: 300px;
+  width: 550px;
+  padding-bottom: 32px;
+ }
+
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
